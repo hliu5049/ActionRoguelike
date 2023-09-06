@@ -1,0 +1,2 @@
+D:\work\UE\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\Definitions.ActionRoguelike.h
+D:\work\UE\ActionRoguelike\ActionRoguelike\Source\ActionRoguelike\ActionRoguelike.h
